@@ -51,16 +51,8 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
-      },
-      {
-        label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
-      },
-      {
-        label: "Blog",
-        href: "https://viking-swap.medium.com/",
-      },
+        href: "https://github.com/pacepaone/",
+      }
     ],
   },
 ];
@@ -72,18 +64,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/VikingSwap",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
-      },
+        href: "https://t.me/oysterfinance",
+      }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/oysterfinance",
   },
 ];
 
